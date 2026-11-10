@@ -10,8 +10,7 @@
   <a href="https://wantonsoup.github.io/github-portfolio/">
     <img
       src="https://github.com/user-attachments/assets/997063f9-7483-4c89-8b2a-bd3cccb7cbc6"
-      width="150"
-      alt="Person pointing right"
+      width="45"
     />
   </a>
   <a href="https://wantonsoup.github.io/github-portfolio/">
