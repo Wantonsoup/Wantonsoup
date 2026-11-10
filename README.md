@@ -6,8 +6,8 @@
 <p align="center">
   Interested in software engineering, systems programming and game development.
 
-<p allign="centre">
-  <img width="450" height="450" alt="Hacking Hacker Man GIF by PERFECTL00P" src="https://github.com/user-attachments/assets/5e520995-0f42-4b2b-86dd-8e4f9bbc0ea5" />
+<p align="center">
+  <img width="350" height="350" alt="Hacking Hacker Man GIF by PERFECTL00P" src="https://github.com/user-attachments/assets/5e520995-0f42-4b2b-86dd-8e4f9bbc0ea5" />
 
 ---
 
