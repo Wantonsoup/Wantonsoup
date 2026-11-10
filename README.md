@@ -108,25 +108,4 @@ A dynamic weather system being developed using C++ and Unreal Engine 5.
 
 [View Repository](https://github.com/wantonsoup)
 
----
 
-## Currently Learning
-
-- Rust programming and ownership principles.
-- Advanced C++ and modern C++ practices.
-- Data structures and algorithms.
-- Systems programming and memory management.
-- Software architecture and design principles.
-
----
-
-## Connect With Me
-
-<p align="left">
-  <a href="https://github.com/wantonsoup">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
