@@ -7,6 +7,14 @@
   Interested in software engineering, systems programming and game development.
 
 <p align="center">
+  <a href="https://wantonsoup.github.io/github-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-181717?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img width="480" height="360" alt="Look At This GIF by Sesame Street" src="https://github.com/user-attachments/assets/997063f9-7483-4c89-8b2a-bd3cccb7cbc6" alt="Vist my portfolio"/>
+
+  </a>
+</p>
+
+<p align="center">
   <img width="350" height="350" alt="Hacking Hacker Man GIF by PERFECTL00P" src="https://github.com/user-attachments/assets/5e520995-0f42-4b2b-86dd-8e4f9bbc0ea5" />
 
 ---
