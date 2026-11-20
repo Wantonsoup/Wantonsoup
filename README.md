@@ -30,7 +30,7 @@
 
 I'm a Computer Science with Games Programming student at the University of Huddersfield, interested in building software and understanding how things work under the hood.
 
-My primary programming language is C++, with experience in Java, Python, Unreal Engine and DirectX 11.
+My primary programming language is C++, with experience in Python, Unreal Engine and DirectX 11.
 
 I'm particularly interested in:
 - Software and systems engineering
